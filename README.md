@@ -3,7 +3,7 @@
   LeNet-5-Visualization
 </h1>
 
-![GitHub issues](https://img.shields.io/github/issues/noobDevelopers/product_hunt)
+![GitHub issues](https://img.shields.io/github/issues/noobDevelopers/LeNet-5-Visualization)
 ![tensorflow](https://aleen42.github.io/badges/src/tensorflow.svg)
 
  <h3 align="center">
